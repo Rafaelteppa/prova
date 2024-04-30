@@ -1,8 +1,14 @@
-import Image from "next/image";
+
+import Banner from "./components/Banner";
+import Header from "./components/Header";
 
 export default function Home() {
   return (
-    <h1>ESCOLA TECNOLOGICA</h1>
-   
-  );
+    <div className="bg-white">
+      <Header />
+      <Banner/>
+      
+    </div>
+ 
+  )
 }
