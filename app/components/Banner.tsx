@@ -14,15 +14,14 @@ export default function Banner(){
 
         <div className="md:flex justify-between lg:mt-8 text-center">
         <p>
-        Unleash your potential and embark on a journey towards astronger, fitter, and more confident you. Sign up for 'Make
-        Your Body Shape' now and witness the incredible transformation your body is capable of!
+        Unleash your potential and embark on a journey towards astronger, fitter, and more confident you. Sign up for Make
+        Your Body Shape now and witness the incredible transformation your body is capable of!
         </p>
-         
-         
+          
         <button
         className="bg-orange-700 rounded-md  text-xs text-center p-2 mt-3">
         Get Started
-       
+
         </button>
         
 
