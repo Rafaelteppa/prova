@@ -7,7 +7,7 @@ export default function Banner(){
                  </a>
             </div>
                 
-        <div className="grid justify-items-start mt-3 p-8 bg-black md:grid-cols-1 ">
+        <div className="grid justify-items-start mt-3 mx-4 bg-black md:grid-cols-1 ">
             <div>
                 <h2 className="font-bold text-orange-400 ">BEST FITNESS IN THE TOWN</h2>
             </div>

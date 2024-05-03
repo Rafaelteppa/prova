@@ -1,6 +1,8 @@
 export default function Program(){
     return(
-        <><div className="mt-5 grid text-center">
+        <>
+        <div className="mx-4">
+        <div className="mt-5 grid text-center">
             <h2>EXPLORE OUR PROGRAM</h2>
         </div>
         
@@ -64,6 +66,7 @@ export default function Program(){
                     </div>
                     </div>
                 </div>
+        </div>
         </div>
             </>
        
