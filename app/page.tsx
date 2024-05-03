@@ -5,6 +5,9 @@ import Program from "./components/Program";
 import Header from "./components/Header";
 import Header2 from "./components/Header2";
 import Personal from "./components/Personal";
+import Join_Grid from "./components/Join_Grid";
+import Footer_Bar from "./components/Footer_Bar";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -13,9 +16,9 @@ export default function Home() {
       <Banner/>
       <Program/>
       <Header2/>
-      <Personal/>
-     
-      
+     <Join_Grid/>
+     <Footer/>
+     <Footer_Bar/>
     </div>
  
   )
