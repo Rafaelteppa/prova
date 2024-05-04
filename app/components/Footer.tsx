@@ -11,7 +11,7 @@ export default function Footer(){
                     towards a healthier,
                     stronger you with our
                     unbeatable pricing
-                    plans. Let's sweat,
+                    plans. Lets sweat,
                     achieve, and conquer
                     together!
                     </h4>
