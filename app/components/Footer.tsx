@@ -1,6 +1,6 @@
 export default function Footer(){
     return(
-        <div className="mt-4 grid grid-cols-2 mx-4">
+        <div className="mt-4 grid grid-cols-2 mx-4 md:grid-cols-4">
             <div>
                 <div>
                     <img src="/img/log.png" alt="" />
