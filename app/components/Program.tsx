@@ -25,11 +25,13 @@ export default function Program(){
                 <div className=" bg-gray-700 gap-4 grid rounded-md">
                     <div className="mt-4 mx-4">
                     <img src="/img/coraçao.svg" alt="" />
-                    <h1 className="mt-4 font-bold">Strength</h1>
+                    <h1 className="mt-4 font-bold">Physical Fitness</h1>
                     <p className="mt-4">
-                        Embrace the essence of strength as we
-                        delve into its various dimensions
-                        physical, mental, and emotional.
+                    It encompasses a range of activities that improve health
+                    strength, flexibility, and overall well-being.
+                    
+                    
+                   
                     </p>
                     <div className="mt-4">
                     <a href="#">Join Now</a>
@@ -40,11 +42,11 @@ export default function Program(){
                 <div className=" bg-gray-700 gap-4 grid rounded-md">
                     <div className="mt-4 mx-4">
                     <img src="/img/caminhada.svg" alt="" />
-                    <h1 className="mt-4 font-bold">Strength</h1>
+                    <h1 className="mt-4 font-bold">Fat Lose</h1>
                     <p className="mt-4">
-                        Embrace the essence of strength as we
-                        delve into its various dimensions
-                        physical, mental, and emotional.
+                    Through a combination of workout routines and
+                    expert guidance, we ll empower you to reach
+                    your goals.
                     </p>
                     <div className="mt-4">
                     <a href="#">Join Now</a>
@@ -55,11 +57,10 @@ export default function Program(){
                 <div className=" bg-gray-700 gap-4 grid rounded-md">
                     <div className="mt-4 mx-4">
                     <img src="/img/cesta.svg" alt="" />
-                    <h1 className="mt-4 font-bold">Strength</h1>
+                    <h1 className="mt-4 font-bold">Weight Gain</h1>
                     <p className="mt-4">
-                        Embrace the essence of strength as we
-                        delve into its various dimensions
-                        physical, mental, and emotional.
+                    Designed for individuals, our program offers an 
+                    effective approach to gaining weight in a sustainable manner.
                     </p>
                     <div className="mt-4">
                     <a href="#">Join Now</a>
