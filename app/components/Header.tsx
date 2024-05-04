@@ -1,5 +1,3 @@
-
-
 export default function Header() {
   return (
     <div className="mx-5 my-4 flex justify-between items-center">
@@ -8,6 +6,5 @@ export default function Header() {
       </div>
     <button className="bg-orange-400 rounded-md text-xs text-center p-2">JOIN NOW</button>
     </div>
-    
   )
 }
