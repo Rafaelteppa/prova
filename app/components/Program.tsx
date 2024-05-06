@@ -16,7 +16,7 @@ export default function Program(){
                             physical, mental, and emotional.
                         </p>
                         <div className="mt-4">
-                            <a href="#">Join Now</a>
+                            <a href="#">Join Now →</a>
                         </div>
                     </div>
                 </div>
@@ -30,7 +30,7 @@ export default function Program(){
                             strength, flexibility, and overall well-being.
                         </p>
                         <div className="mt-4">
-                            <a href="#">Join Now</a>
+                            <a href="#">Join Now →</a>
                         </div>
                     </div>
                 </div>
@@ -45,7 +45,7 @@ export default function Program(){
                             your goals.
                         </p>
                         <div className="mt-4">
-                            <a href="#">Join Now</a>
+                            <a href="#">Join Now →</a>
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@ export default function Program(){
                             effective approach to gaining weight in a sustainable manner.
                         </p>
                         <div className="mt-4">
-                            <a href="#">Join Now</a>
+                            <a href="#">Join Now →</a>
                         </div>
                     </div>
                 </div>
