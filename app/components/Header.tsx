@@ -5,6 +5,9 @@ export default function Header() {
         <p>💪FITCLUB</p>
       </div>
     <button className="bg-orange-400 rounded-md text-xs text-center p-2">JOIN NOW</button>
+    <nav className="bg-blue-400 rounded-md text-xs text-center p-2 space-x-3 mx-4">
+          <a href="/admin">Login</a>
+        </nav>
     </div>
   )
 }
